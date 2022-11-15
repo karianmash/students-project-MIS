@@ -1,3 +1,2 @@
-## fypms (Final Year Project Management System)
-
+# fypms
 A school management system for managing students' projects
