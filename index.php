@@ -64,7 +64,7 @@ session_start(); ?>
                                     <div class="mt-2">
                                         <p class="text-bold">Student Credentials</p>
                                         <span>username: <i>CT101/G/4493/18</i></span><br>
-                                        <span>password: <i>0000</i></span>
+                                        <span>password: <i>9641</i></span>
 
                                         <p class="text-bold mt-1">Coordinator Credentials</p>
                                         username: <i>m3456</i><br>
